@@ -1,4 +1,5 @@
-## Welcome the (unofficial) 519 Swan Valley Squadron Website!
+# Welcome the (unofficial) 519 Swan Valley Squadron Website!
+
+## Please remember that the next meeting is on May 15, 2020 for promotions! Please attend!
 
 
-Please note that this is a unofficial website created by a cadet.
