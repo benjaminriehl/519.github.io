@@ -1,4 +1,4 @@
-Welcome the (unofficial) 519 Swan Valley Squadron Website!
+Welcome to the (unofficial) 519 Swan Valley Squadron Website!
 ------
 
 **Please remember that the next meeting is on May 15, 2020 for promotions! Please attend!**
@@ -18,3 +18,5 @@ We also have an (unofficial) cadet, staff, & parent Discord! Please contact [ghp
 ###### **Disclaimer:** This is an unofficial website ran by a cadet. These pages are not provided, endorsed or sponsored by the Department of National Defence nor the Air Cadet League of Canada.
 
 ###### Why? I'm trying to comply with CATO 11-06 "Official Websites".
+
+###### [**Copyright Disclaimer:**](http://www.aircadetleaguemb.ca/f02-protocol.shtml#copyright) The 519 RCACS emblem is reserved by ACL (MB) Inc. or by the authors. Permission is granted to reproduce and distribute copies of the information for non-profit purposes, provided that copies are distributed at no cost, and that the author, source, and copyright notice are included on each copy.
