@@ -1,7 +1,7 @@
 Welcome to the (unofficial) 519 Swan Valley Squadron Website!
 ------
 
-**Please remember that the next meeting is on May 14, 2020 for promotions! Please attend!**
+**Please remember that the next meeting is on May 22, 2020 for promotions! Please attend!**
 
 If you don't have the details to log on, please contact [ghp@riehl.me](mailto:ghp@riehl.me) for the information to attend the meeting!
 
