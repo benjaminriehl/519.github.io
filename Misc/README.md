@@ -1,3 +1,3 @@
 TODO: Add Miscellaneous Resources
 
-###### [**Copyright Disclaimer:**](http://www.aircadetleaguemb.ca/f02-protocol.shtml#copyright) The 519 RCACS emblem is reserved by ACL (MB) Inc. or by the authors. Permission is granted to reproduce and distribute copies of the information for non-profit purposes, provided that copies are distributed at no cost, and that the author, source, and copyright notice are included on each copy.
+###### [**Copyright Notice:**](http://www.aircadetleaguemb.ca/f02-protocol.shtml#copyright) The 519 RCACS emblem is reserved by ACL (MB) Inc. or by the authors. Permission is granted to reproduce and distribute copies of the information for non-profit purposes, provided that copies are distributed at no cost, and that the author, source, and copyright notice are included on each copy.
